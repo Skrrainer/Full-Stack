@@ -1,0 +1,14 @@
+//Remover arquivo já adicionado
+git rm --cached filename
+
+//Recuperar arquivo
+git restore filename
+
+//Exibir todos os commits
+git log
+
+//Ir para outro branch ou commit
+git checkout "name"
+
+//Novo branch
+git checkout -b branchname
